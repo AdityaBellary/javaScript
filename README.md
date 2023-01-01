@@ -1,2 +1,2 @@
 # javaScript
-Interview preparation
+Interview questions
